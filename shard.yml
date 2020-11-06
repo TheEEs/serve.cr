@@ -1,0 +1,13 @@
+name: serve.cr
+version: 0.1.0
+
+authors:
+  - TheEEs <visualbasic2013@hotmail.com>
+
+targets:
+  serve:
+    main: src/serve.cr
+
+crystal: 0.35.1
+
+license: MIT
